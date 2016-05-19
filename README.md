@@ -32,7 +32,6 @@ Valentin:
     - how to run CMSSW on OSX, Ubuntu, etc.
     - problem with a release X_Y_Z
     - use SL5 on SL6, etc.
-    - 
 
   - service oriented questions
     - authentication problem (expired certificate, unable to access SiteDB,
